@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasepalculate",
+        "uuid": 29440715,
+        "checksum": "uzzz1"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
